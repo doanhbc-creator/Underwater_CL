@@ -24,9 +24,9 @@ All model implementations are located in the `models/` directory.
 
 The repository currently supports the following continual learning approaches:
 
-* Naive fine-tuning
-* Experience Replay (ER)
-* Dark Experience Replay++ (DER++)
+* Naive fine-tuning (`models/naive_model.py`)
+* Experience Replay (ER) (`models/er_model.py`)
+* Dark Experience Replay++ (DER++) (`models/derpp_model.py`)
 
 ## 3. Training
 

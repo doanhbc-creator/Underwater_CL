@@ -51,3 +51,6 @@ Run the visualization script using:
 ```bash
 python visualize.py
 ```
+Example of the knowledge forgetting on the first Aquarium task:
+<img width="6616" height="940" alt="image" src="https://github.com/user-attachments/assets/bae7fd99-0142-4807-96b5-b8885d7dfe9a" />
+
